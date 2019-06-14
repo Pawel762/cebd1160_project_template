@@ -3,28 +3,30 @@ Instructions and template for final projects.
 
 | Name | Date |
 |:-------|:---------------|
-|Your name here | Completion date|
+|Pawel Kaluski | June 15 2019|
 
 -----
 
 ### Resources
 Your repository should include the following:
 
-- Python script for your analysis
-- Results figure/saved file
-- Dockerfile for your experiment
+- Python script for analysis:
+- Results figure/saved file:
+- Dockerfile for your experiment:
 - runtime-instructions in a file named RUNME.md
 
 -----
 
 ## Research Question
 
-1 sentence description of your research question.
+What are the two wine properties with the greatest corelation?
+Is this corelation same across all regions?
 
 ### Abstract
 
 4 sentence longer explanation about your research question. Include:
-
+The wine dataset is composed of 13 different caracteristics. The wines in this dataset are from 3 different regions.
+Some of the properties are known by the general public, others are chemicals that most never heard. I wanted to see how the properties intercted together which led me to ask what are the two componanents with the strongest corelation and is this corelation equivalent regardless of which region the wine is from.
 - opportunity (what data do we have)
 - challenge (what is the "problem" we could solve with this dataset)
 - action (how will we try to solve this problem/answer this question)
